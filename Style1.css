@@ -1,0 +1,71 @@
+body{ 
+    font-family: sans-serif;
+     background-repeat: repeat; background-image:url(purple.png); 
+     background-size: cover; 
+     padding:20px;
+} 
+.leftexp{ 
+    padding: 30px;
+    background-color: #373a90; 
+    width: 28%;
+    color: white; 
+    height: 520px; 
+}
+.mami{ 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+} 
+.papa{ display: flex;
+     display: inline; 
+} 
+img{ 
+    width: 56%; 
+    height: 580px;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+} 
+.mimi{ 
+    position:relative; 
+    right: 16px; 
+} 
+h1{
+     font-size:25px; 
+     color: pink; 
+     text-align: center; 
+} 
+input{ 
+    border-left: none; 
+    border-right: none; 
+    border-top:none;
+    background-color: #373a90; 
+    border-color: white; 
+    color: white; 
+} 
+.input1{ 
+    border-left: none; 
+    border-right: none; 
+    border-top:none; 
+    background-color: #373a90; 
+    border-color: white; 
+    position:relative; 
+    left: 70px; 
+} 
+button{ 
+    border-style: none; 
+    width: 130px; 
+    height: 39px; 
+    background-color: pink; 
+    color: white;
+     position:relative; 
+     left: 120px; 
+     top: 26px; 
+} 
+select{
+     border-left: none; 
+     border-right: none; 
+     border-top: none;
+     background-color: #373a90;
+     color: white;
+}
